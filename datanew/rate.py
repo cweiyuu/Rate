@@ -187,6 +187,7 @@ class Window(tk.Tk):
 
 
 if __name__ =='__main__':
+    # W1
     dataSourse.saveToDataBase()
     bank_name_list = dataSourse.get_bank_name()
     window = Window(bank_name_list)

@@ -192,4 +192,3 @@ if __name__ =='__main__':
     window = Window(bank_name_list)
     window.title('bank')
     window.mainloop()
-    # asfdfdsgfg
